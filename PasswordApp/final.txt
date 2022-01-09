@@ -1,0 +1,38 @@
+Weak:
+{"ExtremePizza 2G": "extremegrill"}
+{"AvdylRexhepi@Kujtesa": "emareina"}
+{"LauraTours@OrangeNet": "arisiami"}
+{"Plus Burger": "burgerplus"}
+{"Jaffa 5": "12345678"}
+{"Jaffa": "12345678"}
+{"TP-Link_0C3A": "40715254"}
+{"Adnan@Telkos": "12345678"}
+{"Arben": "12345678"}
+{"StarGraf": "12345678"}
+{"Missini Ferizaj": "33336666"}
+{"Bextro": "11112222"}
+{"Capitano in Home": "01234567"}
+{"Diart": "11112222"}
+{"Barista's 5G@TelKos": "11115555"}
+{"Inbox-Lounge Bar 5G": "12345678"}
+
+Medium: 
+{"Mnss": "musarose1"}
+{"Matisse rr B": "matisse2018"}
+{"GUSTO B": "gusto2015"}
+{"Diellza iPhone": "diellza1234"}
+{"iPhone": "nida1234"}
+{"Nasufi": "nektar123"}
+{"Rroni": "rroni2016"}
+{"Jeton@TelKos": "jeton123"}
+{"Dardan": "dardani1"}
+{"ComNet-SH.A": "shpendi12"}
+{"MiniBar guest access": "minibar18"}
+{"Aldrin": "aldrin1234"}
+{"615-LAN": "fiek2018"}
+{"Bleron": "rexhepi6"}
+{"wi-fi": "yC73YUkQGudp"}
+{"Pulse": "pulse1234"}
+
+Strong: 
+{"Njomza": "njo2703#"}
