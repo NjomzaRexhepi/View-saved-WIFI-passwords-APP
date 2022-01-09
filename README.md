@@ -24,6 +24,7 @@ Fjalëkalim i lehtë > fjalëkalimet të cilët permbajnë vetëm shkronja apo v
 # Teknologjia e përdorur
 
 Sistemi Operativ - Windows 10 
+
 Gjuha Programuese - Python
 
 # Libraritë e perdorura
