@@ -1,10 +1,14 @@
 # IntSec_2021-22_Grupi19_Nr4
 
 #Detyra
+
+
 Zhvillimi i aplikacionit që mundëson leximin e të gjithë passwordëve të ruajtur të wifi-ve
 
 
 #Përshkrimi i aplikacionit
+
+
 Ky aplikacion synon të lexojë të gjitha fjalëkalimet e wifi të ruajtura në PC dhe vizualizon kompleksitetin në formimin e grafikut duke marrë parasysh disa kritere dhe t'ju ndihmojë të gjeneroni fjalëkalime të reja të rastësishme.
 
 
@@ -53,6 +57,8 @@ Aplikacioni është i lehtë për t'u përdorur, opsionet që ofron janë shumë
 
 
 #Anëtarët
+
+
 I punuar nga grupi numër 19 ku përfshihen studentët Era Fetihu, Fatbardh Podvorica, Julinda Nasufi dhe Njomza Rexhepi, ky projekt është nën mentorimin e Prof. Mergim Hoti.
 
 
