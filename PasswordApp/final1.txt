@@ -1,0 +1,36 @@
+Wi-Fi and Password:
+
+{"Mnss": "musarose1"}
+{"Mihrija": "ibrahimi."}
+{"Jaffa 5": "12345678"}
+{"Matisse rr B": "matisse2018"}
+{"Jaffa": "12345678"}
+{"ExtremePizza 2G": "extremegrill"}
+{"GUSTO B": "gusto2015"}
+{"TP-Link_0C3A": "40715254"}
+{"AvdylRexhepi@Kujtesa": "emareina"}
+{"Diellza iPhone": "diellza1234"}
+{"iPhone": "nida1234"}
+{"Nasufi": "nektar123"}
+{"Adnan@Telkos": "12345678"}
+{"Njomza": "njo2703#"}
+{"Rroni": "rroni2016"}
+{"Arben": "12345678"}
+{"StarGraf": "12345678"}
+{"Jeton@TelKos": "jeton123"}
+{"Dardan": "dardani1"}
+{"ComNet-SH.A": "shpendi12"}
+{"LauraTours@OrangeNet": "arisiami"}
+{"Plus Burger": "burgerplus"}
+{"MiniBar guest access": "minibar18"}
+{"Missini Ferizaj": "33336666"}
+{"Aldrin": "aldrin1234"}
+{"Bextro": "11112222"}
+{"615-LAN": "fiek2018"}
+{"Capitano in Home": "01234567"}
+{"Bleron": "rexhepi6"}
+{"Diart": "11112222"}
+{"Barista's 5G@TelKos": "11115555"}
+{"Inbox-Lounge Bar 5G": "12345678"}
+{"wi-fi": "yC73YUkQGudp"}
+{"Pulse": "pulse1234"}
