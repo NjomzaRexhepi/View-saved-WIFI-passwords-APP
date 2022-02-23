@@ -48,7 +48,6 @@ Fig.1. Dritarja kryesore e aplikacionit
 ![ekzekutimi1](https://user-images.githubusercontent.com/75095687/148679189-c17c77b7-2e72-47d4-a107-d5b99d15a6c7.JPG)
 
 Fig.2. Dritarja me rezultatet për të dhënat e fjalëkalimeve të ruajtura
-![ekzekutimi2](https://user-images.githubusercontent.com/75095687/148679195-02c700ef-3c32-4faf-8bb7-65def79b8209.JPG)
 
 Fig.3. Dritarja që tregon kompleksitetin e fjalëkalimeve
 ![ekzekutimi3](https://user-images.githubusercontent.com/75095687/148679197-56ce93fe-e86c-4868-b6c1-cf570b681b84.JPG)
